@@ -1,73 +1,93 @@
+<div align="center">
+
 👋 Hey, I'm Vithiya K K
 
-🎓 First-Year ECE Student | 💻 Aspiring Software Engineer | 🔧 Electronics & Embedded Systems Enthusiast
+🎓 First-Year ECE Student | 💻 Aspiring Software Engineer
+
+🔧 Electronics & Embedded Systems Enthusiast | 🚀 Exploring Technology
+
+<p>
+  <img src="https://img.shields.io/badge/ECE-1st%20Year-blue?style=for-the-badge" alt="ECE">
+  <img src="https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c" alt="C">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+</div>
 
 🌱 About Me
 
-I'm a first-year Electronics and Communication Engineering (ECE)
-student at St. Joseph's College of Engineering, Chennai.
+I'm a first-year Electronics and Communication Engineering (ECE) student at St. Joseph's College of Engineering, Chennai.
 
-I'm at the beginning of my engineering journey and interested in
-understanding how electronics, hardware, software, and communication
-technologies come together to create practical solutions.
+I'm at the beginning of my engineering journey, and I'm interested in understanding how electronics, hardware, software, and communication technologies come together to create practical solutions.
 
-Currently, I'm building my programming foundation in C and Python
-while exploring:
+Currently, I'm building my programming foundation in C and Python while exploring electronics, digital systems, and problem-solving.
 
-💻 Programming and problem-solving
+🔍 Areas I'm Exploring
 
-🔌 Electronics and digital systems
+💻 C & Python Programming
+
+🔌 Electronics & Digital Systems
 
 🤖 Embedded Systems
 
 🌐 Internet of Things (IoT)
 
-🧩 VLSI and semiconductor technology
+🧩 VLSI & Semiconductor Technology
 
-🔗 Hardware-software integration
-
-I believe in learning step by step, experimenting with what I learn, and
-continuously improving through practice and hands-on projects.
+🔗 Hardware–Software Integration
 
 Learn → Build → Improve → Repeat 🚀
 
 💻 What I'm Learning
 
-Area                  Currently Exploring
+Area
 
-Programming           C, Python
-Electronics           Digital Systems, Basic Electronics
-ECE Technologies      Embedded Systems, IoT, VLSI
-Problem Solving       Programming Fundamentals
-Professional Growth   Communication, Technical Skills
+Currently Exploring
 
-🛠️ Skills & Technologies
+🧑‍💻 Programming
 
-Programming
+C, Python
 
-C
+🔌 Electronics
 
-Python
+Electronics Fundamentals, Digital Systems
 
-Electronics & Technology
-
-Electronics Fundamentals
-
-Digital Systems
+🤖 Embedded Technology
 
 Embedded Systems
 
+🌐 Connected Technology
+
 IoT
 
-VLSI --- Exploring
+🧩 Semiconductor Technology
+
+VLSI
+
+🧠 Problem Solving
+
+Programming Fundamentals
+
+🗣️ Professional Growth
+
+Communication & Technical Skills
+
+🛠️ Skills & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/C-Programming-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Electronics-Exploring-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Exploring-green?style=flat-square">
+  <img src="https://img.shields.io/badge/IoT-Exploring-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/VLSI-Exploring-red?style=flat-square">
+</p>
 
 📜 Certification
 
-Infosys -- Programming Fundamentals Using Python -- Part 1
+🏆 Infosys — Programming Fundamentals Using Python – Part 1
 
-This certification helped me strengthen my understanding of Python
-programming fundamentals and take my first steps into Python
-development.
+Completed an online certification focused on Python programming fundamentals, helping me strengthen my programming foundation and begin exploring Python development.
 
 🎯 My Goals
 
@@ -77,10 +97,9 @@ development.
 
 🔧 Build practical electronics and embedded projects
 
-🚀 Participate in technical events, hackathons, workshops, and
-projects
+🚀 Participate in technical events, hackathons, workshops, and projects
 
-🌐 Explore VLSI, IoT, and hardware-software integration
+🌐 Explore VLSI, IoT, and hardware–software integration
 
 🗣️ Improve communication and professional skills
 
@@ -88,41 +107,53 @@ projects
 
 📂 Projects
 
-I'm currently learning and building my foundation. More projects will be
-added as I develop them.
+I'm currently building my foundation and working towards practical projects.
 
-🚧 Projects coming soon --- Learning, Building, and Improving!
+🚧 Projects coming soon — Learning, Building, and Improving!
 
-📊 My Learning Journey
+As I complete projects, this section will be updated with my work.
 
-Programming       ███████░░░  Building
-Electronics       ██████░░░░  Exploring
-Python            ██████░░░░  Learning
-C Programming     ███████░░░  Developing
-Embedded Systems   ████░░░░░░  Exploring
-VLSI              ███░░░░░░░  Exploring
-IoT               ████░░░░░░  Exploring
+📈 My Learning Journey
+
+C Programming       ███████░░░  Developing
+Python              ██████░░░░  Learning
+Electronics          ██████░░░░  Exploring
+Digital Systems      █████░░░░░  Exploring
+Embedded Systems     ████░░░░░░  Exploring
+IoT                  ████░░░░░░  Exploring
+VLSI                 ███░░░░░░░  Exploring
 
 🌟 Beyond Academics
 
-I am interested in participating in:
+I'm interested in participating in:
 
-Technical events
+🎤 Technical events
 
-Workshops
+🧑‍💻 Coding activities
 
-Hackathons
+🛠️ Workshops
 
-Coding activities
+🚀 Hackathons
 
-Engineering projects
+📂 Engineering projects
 
-Hands-on learning opportunities
+🔬 Hands-on learning opportunities
 
 📫 Connect With Me
 
-💻 GitHub: Vithiya-12
+<p>
+  <a href="https://github.com/Vithiya-12">
+    <img src="https://img.shields.io/badge/GitHub-Vithiya--12-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vithiya%20K%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-💼 LinkedIn: Vithiya K K
+<div align="center">
 
 🚀 Learning the fundamentals. Exploring technology. Building the skills for tomorrow.
+
+Thanks for visiting my profile! 👋
+
+</div>
